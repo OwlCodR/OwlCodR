@@ -5,7 +5,7 @@
 - ⚡ I worked with:
   - Android: `Firebase`, `SQlite`, `Retrofit`, `GoogleMaps API`, `Bluetoth`, `Jetpack Compose`
   - Flutter: `GetX `
-  - Python: `AstroPy`, `SciKit`, `Flask`
+  - Python: `AstroPy`, `SciKit`, `Flask`, `VK API`
   - C/C++: `Qt`, `Boost`, `OpenGL`
   - JS: `Discord API`, `Ionic`
   - Other: `Linux`, `Git`, `Trello`, `Figma`
