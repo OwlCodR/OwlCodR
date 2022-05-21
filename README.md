@@ -6,7 +6,7 @@
   - Android: `Firebase`, `SQlite`, `Retrofit`, `GoogleMaps API`, `Bluetoth`, `Jetpack Compose`
   - Flutter: `GetX `
   - Python: `AstroPy`, `SciKit`, `Flask`, `VK API`
-  - C/C++: `Qt`, `Boost`, `OpenGL`
+  - C/C++: `Qt`, `Boost`, `OpenGL`, `SFML`
   - JS: `Discord API`, `Ionic`
   - Other: `Linux`, `Git`, `Trello`, `Figma`
   
