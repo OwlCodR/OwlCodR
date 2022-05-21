@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [VoteNote](https://github.com/votenote)
+- 🔭 I’m currently working on [VoteNote](https://github.com/votenote) and [Variable Stars Detection](https://github.com/stars-detection)
 - 🌱 I’m currently learning Android SDK, Flutter, App Architecture
 - ⚡ I worked with:
   - Android: `Firebase`, `SQlite`, `Retrofit`, `GoogleMaps API`, `Bluetoth`, `Jetpack Compose`
