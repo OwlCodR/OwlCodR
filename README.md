@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [VoteNote](https://github.com/OwlCodR/vote-note) and [Simple Todo](https://github.com/OwlCodR/simple-todo)
 - 🌱 I’m currently learning Android SDK, Flutter, App Architecture
 - ⚡ I worked with:
-  - Android: `Firebase`, `SQlite`, `Retrofit`, `GoogleMaps API`, `Bluetoth`, `Jetpack Compose`, `Moshi`, `OkHttp`
+  - Android: `Firebase`, `SQlite`, `Retrofit`, `GoogleMaps API`, `Bluetooth`, `Jetpack Compose`, `Moshi`, `OkHttp`
   - Flutter: `GetX `
   - Python: `AstroPy`, `SciKit`, `Flask`, `VK API`
   - C/C++: `Qt`, `Boost`, `OpenGL`, `SFML`
