@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on [VoteNote](https://github.com/OwlCodR/vote-note) and [Simple Todo](https://github.com/OwlCodR/simple-todo)
 - 🌱 I’m currently learning Android SDK, Flutter, App Architecture
 - ⚡ I worked with:
-  - Android: `Firebase`, `SQLite`, `Retrofit`, `GoogleMaps API`, `Bluetooth`, `Jetpack Compose`, `Moshi`, `OkHttp`, `Gson`, `Room`, `RxJava`
-  - Flutter: `GetX`, `freezed`, `intl`, `riverpod`
+  - Android: `Firestore`, `SQLite`, `Retrofit`, `GoogleMaps API`, `Bluetooth`, `Jetpack Compose`, `Moshi`, `OkHttp`, `Gson`, `Room`, `RxJava`
+  - Flutter: `Crashlytics`, `GetX`, `freezed`, `intl`, `riverpod`, `dio`, `hive`
   - Python: `AstroPy`, `SciKit`, `Flask`, `VK API`
   - C/C++: `Qt`, `Boost`, `OpenGL`, `SFML`
   - JS: `Discord API`, `Ionic`
