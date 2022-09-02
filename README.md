@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Android SDK, Flutter, App Architecture
 - ⚡ I worked with:
   - Android: `Firestore`, `SQLite`, `Retrofit`, `GoogleMaps API`, `Bluetooth`, `Jetpack Compose`, `Moshi`, `OkHttp`, `Gson`, `Room`, `RxJava`
-  - Flutter: `Crashlytics`, `GetX`, `freezed`, `intl`, `riverpod`, `dio`, `hive`
+  - Flutter: `Firebase`, `GetX`, `freezed`, `intl`, `riverpod`, `dio`, `hive`
   - Python: `AstroPy`, `SciKit`, `Flask`, `VK API`
   - C/C++: `Qt`, `Boost`, `OpenGL`, `SFML`
   - JS: `Discord API`, `Ionic`
