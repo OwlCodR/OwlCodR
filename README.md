@@ -17,4 +17,4 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/OwlCodR)
 [![LeetCode](https://img.shields.io/badge/LeetCode-039660?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/owl_codr/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owlcodr&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owlcodr&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/OwlCOdR/github-readme-stats)
