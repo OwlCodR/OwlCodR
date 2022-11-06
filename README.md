@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [VoteNote](https://github.com/OwlCodR/vote-note) and [Todo App](https://github.com/OwlCodR/todo_app)
-- 🌱 I’m currently learning Android SDK, Flutter, App Architecture
+- 🌱 I’m currently learning Flutter
 - ⚡ I worked with:
   - Android: `Firestore`, `SQLite`, `Retrofit`, `GoogleMaps API`, `Bluetooth`, `Jetpack Compose`, `Moshi`, `OkHttp`, `Gson`, `Room`, `RxJava`
   - Flutter: `Firebase`, `GetX :D`, `freezed`, `intl`, `riverpod`, `dio`, `hive`, `mockito`, `go_router`
