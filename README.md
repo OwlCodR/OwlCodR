@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [VoteNote](https://github.com/OwlCodR/vote-note) and [Todo App](https://github.com/OwlCodR/todo_app)
+- 🔭 I’m currently working on [VoteNote](https://github.com/OwlCodR/vote-note) and [Nike Run Club Database](https://github.com/OwlCodR/nrc_database)
 - 🌱 I’m currently learning Flutter
 - ⚡ I worked with:
   - Android: `Firestore`, `SQLite`, `Retrofit`, `GoogleMaps API`, `Bluetooth`, `Jetpack Compose`, `Moshi`, `OkHttp`, `Gson`, `Room`, `RxJava`
