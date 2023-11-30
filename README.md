@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [VoteNote](https://github.com/OwlCodR/vote-note) and [Nike Run Club Database](https://github.com/OwlCodR/nrc_database)
+- 🔭 I’m currently working on [VoteNote](https://github.com/OwlCodR/vote-note)
 - 🌱 I’m currently learning Flutter
 - ⚡ I worked with:
   - Android: `Firestore`, `SQLite`, `Retrofit`, `GoogleMaps API`, `Bluetooth`, `Jetpack Compose`, `Moshi`, `OkHttp`, `Gson`, `Room`, `RxJava`
   - Flutter: `Firebase`, `GetX :D`, `freezed`, `intl`, `riverpod`, `dio`, `hive`, `mockito`, `go_router`
   - Python: `AstroPy`, `SciKit`, `Flask`, `VK API`
-  - C/C++: `Qt`, `Boost`, `OpenGL`, `SFML`
+  - C/C++: `Qt`, `Boost`, `OpenGL`, `SFML`, `OpenMP`
   - JS: `Discord API`, `Ionic`
-  - Other: `Linux`, `Git`, `Trello`, `Figma`
+  - Other: `Linux`, `Git`, `Figma`, `Swagger`
   
 - 📫 Links:
 
