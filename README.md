@@ -5,7 +5,7 @@
 - ⚡ I worked with:
   - Android: `Firestore`, `SQLite`, `Retrofit`, `GoogleMaps API`, `Bluetooth`, `Jetpack Compose`, `Moshi`, `OkHttp`, `Gson`, `Room`, `RxJava`
   - Flutter: `Firebase`, `GetX :D`, `freezed`, `intl`, `riverpod`, `dio`, `hive`, `mockito`, `go_router`
-  - Python: `AstroPy`, `SciKit`, `Flask`, `VK API`
+  - Python: `AstroPy`, `SciKit`, `Flask`, `VK API`, `Telebot`
   - C/C++: `Qt`, `Boost`, `OpenGL`, `SFML`, `OpenMP`
   - JS: `Discord API`, `Ionic`
   - Other: `Linux`, `Git`, `Figma`, `Swagger`
