@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [VoteNote](https://github.com/OwlCodR/vote-note)
+- 🔭 I’m currently working on Dating App
 - 🌱 I’m currently learning Flutter
 - ⚡ I worked with:
   - Android: `Firestore`, `SQLite`, `Retrofit`, `GoogleMaps API`, `Bluetooth`, `Jetpack Compose`, `Moshi`, `OkHttp`, `Gson`, `Room`, `RxJava`
