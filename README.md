@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 - 🔭 I’m currently working on Dating App
 - 🌱 I’m currently learning Flutter
@@ -16,3 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/max-levkin/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/OwlCodR)
 [![LeetCode](https://img.shields.io/badge/LeetCode-039660?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/owl_codr/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=OwlCodR)
+
